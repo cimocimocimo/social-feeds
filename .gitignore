@@ -1,3 +1,4 @@
 .elasticbeanstalk/
 *.pyc
 
+/social_feeds/local_settings.py
